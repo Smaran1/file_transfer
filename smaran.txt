@@ -1,1 +1,22 @@
 okay hi this is trying to add file to git
+notes for Operating system
+
+OS have two major parts- Kernel and Application 
+The link between the two is as follows:
+The kernel provides a set of services and APIs (Application Programming Interfaces) that 
+\n <b>allow applications to access system resources such as memory, storage, and input/output devices.</b>
+
+For example - 
+1) when an application needs to write data to the hard drive, it sends a request to /n
+the operating system kernel, which then handles the request and sends the appropriate /n
+signals to the disk controller to write the data to the disk. 
+
+2) Similarly, when an application needs to allocate memory, it sends a request to the kernel, /n
+which then manages memory allocation and ensures that memory is properly assigned to the application.
+
+Applicatio 
+
+The application is a software program that runs on top of the operating system, 
+and it provides users with a way to perform specific tasks or activities, such as creating a document, playing a video game, or browsing the web. 
+Applications are designed to interact with the user and make use of the resources provided by the operating system, such as memory, CPU, storage, 
+and input/output devices. 
